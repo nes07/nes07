@@ -4,7 +4,7 @@ I'm a student 👨‍🎓, series fan 📺 and reader 📖. I'm majoring in Appl
 
 ---
 
-### Programming in...
+## Programming in...
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-DCDCDC?style=for-the-badge&logo=c&logoColor=696969)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -12,7 +12,7 @@ I'm a student 👨‍🎓, series fan 📺 and reader 📖. I'm majoring in Appl
 
 ---
 
-### Tools
+## Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
@@ -24,7 +24,7 @@ I'm a student 👨‍🎓, series fan 📺 and reader 📖. I'm majoring in Appl
 
 ---
 
-### Libraries
+## Libraries
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Networkx](https://img.shields.io/badge/Networkx-black?style=for-the-badge&logo=python&logoColor=yellow)
