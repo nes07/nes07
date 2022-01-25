@@ -1,6 +1,8 @@
 ### Hi there, I'm Nicolás 👋
 
-I'm a student 👨‍🎓, series fan 📺 and reader 📖. I'm majoring in Applied Mathematics/Mathematical Engineering at [PUC](https://www.uc.cl/en).
+I'm a student at [PUC](https://www.uc.cl/en). My major is Applied Mathematics/Mathematical Engineering with interest in Uncertainty Quantification, Optimization, Data Science, Artificial Intelligence and Finance. 
+
+I'm also a member of the Society for Industrial and Applied Mathematics [SIAM](https://www.siam.org/) and currently part of the host committee of ENIM 2022.
 
 ## Programming in...
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
