@@ -2,15 +2,11 @@
 
 I'm a student 👨‍🎓, series fan 📺 and reader 📖. I'm majoring in Applied Mathematics/Mathematical Engineering at [PUC](https://www.uc.cl/en).
 
----
-
 ## Programming in...
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-DCDCDC?style=for-the-badge&logo=c&logoColor=696969)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
----
 
 ## Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -21,8 +17,6 @@ I'm a student 👨‍🎓, series fan 📺 and reader 📖. I'm majoring in Appl
 ![Google Colab](https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![R Studio](https://img.shields.io/badge/R%20Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)
-
----
 
 ## Libraries
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
