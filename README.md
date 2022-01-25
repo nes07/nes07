@@ -1,4 +1,4 @@
-### Hi there, I'm Nicolás 👋
+### Hi there, my name is Nicolás 👋
 
 I'm a student at [PUC](https://www.uc.cl/en). My major is Applied Mathematics/Mathematical Engineering with interest in Uncertainty Quantification, Optimization, Data Science, Artificial Intelligence and Finance. 
 
