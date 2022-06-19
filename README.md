@@ -2,7 +2,7 @@
 
 I'm a student at [PUC](https://www.uc.cl/en). My major is Applied Mathematics/Mathematical Engineering with interest in Uncertainty Quantification, Optimization, Data Science, Artificial Intelligence and Finance. 
 
-I'm also a member of the Society for Industrial and Applied Mathematics [SIAM](https://www.siam.org/) and currently part of the host committee of ENIM Chile 2022.
+I'm also a member of the Society for Industrial and Applied Mathematics [SIAM](https://www.siam.org/) and currently part of the host committee of [ENIM Chile 2022](https://enim2022uc.cl/).
 
 Nowadays, I find myself developing an optimization program for a variation of the inventory routing problem.
 
